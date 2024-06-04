@@ -1,0 +1,10 @@
+C:\Users\Diana\source\repos\BBG\BBG\bin\Debug\BBG.exe.config
+C:\Users\Diana\source\repos\BBG\BBG\bin\Debug\BBG.exe
+C:\Users\Diana\source\repos\BBG\BBG\bin\Debug\BBG.pdb
+C:\Users\Diana\source\repos\BBG\BBG\obj\Debug\BBG.csproj.AssemblyReference.cache
+C:\Users\Diana\source\repos\BBG\BBG\obj\Debug\BBG.Form1.resources
+C:\Users\Diana\source\repos\BBG\BBG\obj\Debug\BBG.Properties.Resources.resources
+C:\Users\Diana\source\repos\BBG\BBG\obj\Debug\BBG.csproj.GenerateResource.cache
+C:\Users\Diana\source\repos\BBG\BBG\obj\Debug\BBG.csproj.CoreCompileInputs.cache
+C:\Users\Diana\source\repos\BBG\BBG\obj\Debug\BBG.exe
+C:\Users\Diana\source\repos\BBG\BBG\obj\Debug\BBG.pdb
